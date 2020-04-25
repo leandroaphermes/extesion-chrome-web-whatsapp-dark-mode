@@ -9,7 +9,7 @@ ___
 
 1. Open Extension tab or [Table Extension](chrome://extensions/)
 2. Enable "Developer Mode"
-3. Load Unpacked
+3. Load Unpacked, Select folder "src"
 4. Finished
 ___
 Soon it will be extension in the Chrome store.
