@@ -1,7 +1,7 @@
 {
   "name": "Web WhatsApp Dark Mode",
   "version": "1.0",
-  "description": "Activate dark mode on whatsapp. This extension only makes css changes and adds the dark class to the html",
+  "description": "Activate dark mode on Web WhatsApp. This extension only makes css changes and adds the dark class to the html",
   "manifest_version": 2,
   "content_scripts": [
     {
