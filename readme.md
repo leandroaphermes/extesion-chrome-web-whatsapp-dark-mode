@@ -7,7 +7,7 @@ ___
 ### Install
 [Download Latest](https://github.com/leandroaphermes/extesion-chrome-web-whatsapp-dark-mode/archive/master.zip)
 
-1. Open Extension tab or [Table Extension](chrome://extensions/)
+1. Open Extension tab in **Menu Settings -> Extensions**
 2. Enable "Developer Mode"
 3. Load Unpacked, Select folder "src"
 4. Finished
