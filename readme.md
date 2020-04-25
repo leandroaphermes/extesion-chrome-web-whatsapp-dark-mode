@@ -1,10 +1,10 @@
-##Dark Mode Web WhatsApp - Chrome Extension
+## Dark Mode Web WhatsApp - Chrome Extension
 Activate dark mode on Web WhatsApp. This extension only makes css changes and adds the dark class to the html
 ___
-###PrintScreen
+### PrintScreen
 ![PrintScreen](https://image.prntscr.com/image/wrjjkH-tRQi7UnkYHfuMoA.png)
 ___
-###Install
+### Install
 [Download Latest](https://github.com/leandroaphermes/extesion-chrome-web-whatsapp-dark-mode/archive/master.zip)
 
 1. Open Extension tab or [Table Extension](chrome://extensions/)
