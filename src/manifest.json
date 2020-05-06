@@ -3,6 +3,11 @@
   "version": "1.0",
   "description": "Activate dark mode on Web WhatsApp. This extension only makes css changes and adds the dark class to the html",
   "manifest_version": 2,
+  "icons": { 
+    "16": "icon/icon-16.png",
+    "48": "icon/icon-48.png",
+    "128": "icon/icon-128.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://web.whatsapp.com/*"],
